@@ -1,6 +1,5 @@
-# ICR, kaggle competition
-
 # Overview
+ICR, kaggle competition
 初めてのKaggleコンペティション！Kaggle日記。もし書き方が分からなくなったら[こちらを参照](https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068)
 
 実際の書き方は[こんな感じ](https://github.com/Yuki-Tanaka-33937424/kaggle-Shopee-Price-Match-Guarantee)
